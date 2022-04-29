@@ -16,6 +16,10 @@ chmod -R 777 run.sh
 
 Please refer to https://github.com/YuanGongND/ast for the environment dir (if necessary) and the pretrained models. We will omit those files here.
 
+----
+
+Original README starts
+
 # AST: Audio Spectrogram Transformer  
 
  - [News](#News)

@@ -1,5 +1,9 @@
 Modified based on the Repository: https://github.com/whai362/PVT/tree/v2/classification
 
+----
+
+Original README starts
+
 # Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions
 
 Our classification code is developed on top of [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) and [deit](https://github.com/facebookresearch/deit).
