@@ -1,6 +1,6 @@
 Modified based on the Repository: https://github.com/whai362/PVT/tree/v2/classification
 
-Put all audio files under `./audio/LANG` and run `img_genereate.ipynb` to get the training and testing dataset for spoken language detection task. 
+Put all audio files under `./audio/LANG` and run `img_genereate.ipynb` to get the training and testing dataset for spoken language detection task. You may find the VoxForge dataset at http://www.voxforge.org/
 
 ----
 
